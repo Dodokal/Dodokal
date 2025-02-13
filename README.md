@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dodokal
-- 👀 I’m interested in ...CODING
-- 🌱 I’m currently learning ...GIS
+- 👀 I’m interested in data driven approch in spatial science
+- 🌱 GIS and Remote sensing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Kalidh84@gmail.com
 
